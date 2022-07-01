@@ -5,16 +5,15 @@
 [CLICK HERE TO DOWNLOAD](https://arceus-x.net/download/)
 
 
-With the help of a Roblox mod menu, you can easily customize your game and make it more fun. A mod menu is a great way to add features that aren't normally available in the game. For example, you can use a mod menu to change the way your player looks, or to add new weapons to the game.
+With the help of a Roblox mod menu like Arceus X, you can easily customize your game and make it more fun. A mod menu is a great way to add features that aren't normally available in the game. For example, you can use a mod menu to change the way your player looks, or to add new weapons to the game.
 
 A mod menu can also be used to cheat in the game. This can give you an edge over other players, and can make the game more fun for you. However, using a mod menu to cheat can also get you banned from Roblox. So be careful!
 
-If you want to add a mod menu to your game, there are several things you need to do. First, you need to find a mod menu that works with your version of Roblox.
+If you want to add a mod menu to Roblox, then Arceus X is the perfect one for you. Available now for both Android (APK) and PC!
 
 ## Download Arceus X
 
 Start by [downloading Arceus X](https://arceus-x.net/download/) and then follow the instructions in the .txt file!
-
 
 
 ## FAQ
