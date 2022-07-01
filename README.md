@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Arceus X Roblox Mod Menu
 
-You can use the [editor on GitHub](https://github.com/arceusx-roblox/arceusx-roblox.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![Arceus X Mod](https://i.ibb.co/JQ933yb/arceus-x-mod-menu-showcase.png)](https://arceus-x.net/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[CLICK HERE TO DOWNLOAD]([https://github.com/arceusx-roblox/arceusx-roblox.github.io/edit/main/README.md](https://arceus-x.net/download/))
 
-### Markdown
+With the help of a Roblox mod menu, you can easily customize your game and make it more fun. A mod menu is a great way to add features that aren't normally available in the game. For example, you can use a mod menu to change the way your player looks, or to add new weapons to the game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A mod menu can also be used to cheat in the game. This can give you an edge over other players, and can make the game more fun for you. However, using a mod menu to cheat can also get you banned from Roblox. So be careful!
 
-```markdown
-Syntax highlighted code block
+If you want to add a mod menu to your game, there are several things you need to do. First, you need to find a mod menu that works with your version of Roblox.
 
-# Header 1
-## Header 2
-### Header 3
+## Download Arceus X
 
-- Bulleted
-- List
+Start by [downloading Arceus X]([https://github.com/arceusx-roblox/arceusx-roblox.github.io/edit/main/README.md](https://arceus-x.net/download/)) and then follow the instructions in the .txt file!
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## FAQ
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### What is a Roblox mod menu?
+A Roblox mod menu is a program that allows you to modify your game. This can include things like changing your character’s appearance, adding new items, or modifying the game code. There are many different types of mod menus available, and they can be used to do everything from making small changes to creating entire new games.
+### How do you use a mod menu?
+To use a mod menu, you must first install it. The installation process will vary depending on the game and the mod menu. Once it is installed, you will need to open the menu and select the options you want to modify.
 
-### Jekyll Themes
+What are some of the features?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arceusx-roblox/arceusx-roblox.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Some common mods include adding new weapons or characters to the game, modifying game settings, or cheating by giving players a better advantage over their opponents.
