@@ -1,6 +1,10 @@
 <head><link rel="shortcut icon" type="image/x-icon" href="arceus_x_icon.ico"></head>
 
  <style>
+ h1,h2,h3,p {
+ color: white;
+ }
+ 
 body {
   background-image: url('https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/hexagon-bg-blue.jpg?raw=true');
   background-repeat: no-repeat;
