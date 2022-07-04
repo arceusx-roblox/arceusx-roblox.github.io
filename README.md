@@ -1,5 +1,14 @@
 <head><link rel="shortcut icon" type="image/x-icon" href="arceus_x_icon.ico"></head>
 
+ <style>
+body {
+  background-image: url('https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/hexagon-bg-blue.jpg?raw=true');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style> 
+
 # Arceus X Roblox Mod Menu
 
 [![Arceus X Mod](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/arceus_x_mod_menu_showcase.png?raw=true)](https://arceus-x.net/)
