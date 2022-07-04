@@ -1,3 +1,5 @@
+<head><link rel="shortcut icon" type="image/x-icon" href="arceus_x_icon.ico"></head>
+
 # Arceus X Roblox Mod Menu
 
 [![Arceus X Mod](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/arceus_x_mod_menu_showcase.png?raw=true)](https://arceus-x.net/)
