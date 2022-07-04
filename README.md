@@ -4,9 +4,9 @@
 
 [![Arceus X Mod](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/arceus_x_mod_menu_showcase.png?raw=true)](https://arceus-x.net/)
 
-[![Download for PC button](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/dl-pc.png?raw=true)](https://arceus-x.net/download/)
+[![Download for PC button](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/dl-pc.png?raw=true)](https://arceus-x.net/download/)  [![Download APK button](https://github.com/arceusx-roblox/arceusx-roblox.github.io/blob/main/playstore.png?raw=true)](https://arceus-x.net/download/)
 
-[CLICK HERE TO DOWNLOAD FOR PC](https://github.com/arceusx-roblox/arceusx-roblox.github.io/releases/download/v2/Arceus.X.zip)
+[CLICK HERE TO DOWNLOAD FOR PC](https://github.com/arceusx-roblox/arceusx-roblox.github.io/releases/download/v2/Arceus.X.zip) 
 
 ___
 
